@@ -16,6 +16,6 @@
 **Folders**
 + **trained AEs:** saved models obtained from the training phase.
 + **movie_lens_stats:** collects the csv files produced by resources_monitor.py. They are grouped by project phase.
-+ **losses:** loss degli addestramenti registrate mediante l'utilizzo di evaluable_training.py.
++ **losses:** losses recorded using evaluable_training.py.
 + **ml-25m:** where the dataset should be stored.
 
